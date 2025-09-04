@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.nav-btn{
+    margin-left: 10px;
+}
+.header-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    text-align: center;
+}
+.heading{
+    font-size:60px ;
+    font-weight: 900;
+}
+.head-inputbox{
+    height: 55px;
+    width: 380px;
+   
+}
+.button-heading{
+    height: 50px;
+    width: 200px;
+
+    
+}
+.navbar-section-and-head{
+ background-image: url(./assets/demo-2.jpg);
+   height: 100vh;
+}
+.box img{
+    height: 300px;
+}
+.carousel-control-prev-icon{
+    margin-left: -100px;
+    
+}
