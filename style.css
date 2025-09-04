@@ -39,3 +39,14 @@
     margin-left: -100px;
     
 }
+.card{
+ background: linear-gradient(135deg, #0f172a, #1e1b4b);
+}
+.quesion-box{
+    height: 80px;
+    width: 1200px;
+   
+}
+.ms-4{
+    border: 1px solid rgb(22, 22, 22);
+}
