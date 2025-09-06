@@ -48,5 +48,20 @@
    
 }
 .ms-4{
-    border: 1px solid rgb(22, 22, 22);
+    border: 1px solid rgb(40, 39, 39);
+}
+.accordion-button::after{
+    display: none;
+}
+.footer-rows li{
+    list-style: none;
+    text-decoration: underline;
+    color: #8ea39c;
+    margin-top: 10px;
+}
+.card-images {
+    transition: transform 0.3s ease;
+}
+.card-images:hover {
+  transform: scale(1.1);
 }
