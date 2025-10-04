@@ -30,7 +30,7 @@
 }
 .navbar-section-and-head{
  background-image: url(./assets/demo-2.jpg);
-   height: 100vh;
+   min-height: 100vh;
 }
 .box img{
     height: 300px;
